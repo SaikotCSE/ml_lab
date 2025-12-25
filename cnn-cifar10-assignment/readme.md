@@ -28,17 +28,16 @@ The project strictly follows assignment requirements, including **automation, re
 ---
 
 ## Repository Structure
+
 cnn-cifar10-assignment/
-│
 ├── dataset/
-│   └── phone_images/          # 13 real-world images captured using phone
+│ └── phone_images/ # 13 real-world images captured using phone
 │
 ├── model/
-│   └── 210109.pth             # Saved trained model weights
+│ └── 210109.pth # Saved trained model weights
 │
-├── 210109.ipynb               # Google Colab notebook
-├── README.md                  # Project documentation
-
+├── 210109_CNN.ipynb # Google Colab notebook
+└── README.md # Project documentation
 
 ---
 
