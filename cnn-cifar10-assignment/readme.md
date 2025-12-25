@@ -17,7 +17,7 @@ The project strictly follows assignment requirements, including **automation, re
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Train a CNN from scratch on the CIFAR-10 dataset
 - Apply proper image preprocessing and normalization
 - Evaluate performance on unseen test data
@@ -27,7 +27,7 @@ The project strictly follows assignment requirements, including **automation, re
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 cnn-cifar10-assignment/
 │
 ├── dataset/
@@ -42,7 +42,7 @@ cnn-cifar10-assignment/
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 ### CIFAR-10 Dataset
 - 60,000 RGB images (32×32)
@@ -67,7 +67,7 @@ cnn-cifar10-assignment/
 
 ---
 
-## ⚙️ Data Preprocessing
+## Data Preprocessing
 
 ### Training & Test Preprocessing
 - Resize images to **32×32**
@@ -89,7 +89,7 @@ To reduce domain mismatch between CIFAR-10 and real-world images, phone images a
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 The CNN architecture consists of:
 - Convolutional layers (`nn.Conv2d`)
 - ReLU activation functions
